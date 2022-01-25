@@ -13,6 +13,17 @@ The dental pulp is a highly vascularized tissue containing different cellular el
 
 In the nootebook ***dental-pulp-cell-detection-maskrcnn***  you will find part of the code thath we use to develop the solution, we base our model on the implementation of  [matterport](https://github.com/matterport/Mask_RCNN). 
 
+## 📑 Technologies uses:
+* Python 3.0
+* Mask-RCNN
+* Keras
+* Tensor Flow
+* Tensor Board
+* Git
+* Open CV
+
+
+
 If you need more information about this project no doubt in contact me.
 
 ## Contacto 
